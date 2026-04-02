@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InchirieriMasiniConsole/InchirieriMasiniConsole.csproj" />
+  <Project Path="LibrarieModele/LibrarieModele.csproj" />
+  <Project Path="NivelStocareDate/NivelStocareDate.csproj" />
+</Solution>
