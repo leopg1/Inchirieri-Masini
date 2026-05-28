@@ -1,0 +1,6 @@
+IdMasina;Marca;Model;PretPeZi;Disponibila;Culoare;Combustibil;Optiuni
+1;Dacia;Logan;140;true;Alb;Benzina;AerConditionat
+2;Skoda;Octavia;220;true;Gri;Motorina;AerConditionat|Navigatie
+3;Toyota;Corolla;260;true;Negru;Hibrid;AerConditionat|Navigatie|CutieAutomata
+4;Renault;Clio;175;false;Rosu;Benzina;AerConditionat
+5;Tesla;Model3;420;true;Albastru;Electric;Navigatie|CutieAutomata|SenzoriParcare
